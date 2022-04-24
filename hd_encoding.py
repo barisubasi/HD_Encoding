@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -----------------------------------------------------------------------------
-# Author: Peter Sutor
+# Author: Baris Subasi
 # Date: March 31st, 2022
 #
 # Description:
